@@ -1,0 +1,1 @@
+This file contains text that is expected to be outputed on the current terminal instance.
