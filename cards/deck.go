@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-// Create a new type of 'deck''
+// Create a new type 'deck'
 // which is a slice of strings
 
 type deck []string
